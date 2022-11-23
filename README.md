@@ -1,4 +1,4 @@
-# A machine learning model that predicted the anti-S.aureus activity levels of peptides
+#Prediction of antimicrobial peptide against S.aureus 
 We used the DBAASP database (https://dbaasp.org/home) to construct a dataset for machine learning. 
 Monomeric AMPs without unusual amino acids and bonds were screened out, and they also need to report the minimum inhibitory concentration (MIC) for S. aureus was reported. 
 In total, 3,825 AMPs were collected and the labeled as having high activity, low activity, or no activity. 
